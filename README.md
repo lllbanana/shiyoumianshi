@@ -1,6 +1,7 @@
 problem1
 
-题目描述
+一、题目描述
+--
 
 外汇牌价查询
 
@@ -35,3 +36,9 @@ python3 yourcode.py 20211231 USD
 完成后，请将py文件放在一个公开的github repo里
 
 请将repo链接发送至：core@dreamschool.uk
+
+二、代码解释：
+--
+仅实现了
+
+
